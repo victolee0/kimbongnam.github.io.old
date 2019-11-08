@@ -3,28 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kimbongnam.github.io/html/seoulmetro/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kimbongnam.github.io/post/seoulmetro_map/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kimbongnam.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://kimbongnam.github.io/html/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://kimbongnam.github.io/</loc>
-    <lastmod>2019-10-09T16:19:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://kimbongnam.github.io/post/</loc>
-    <lastmod>2019-10-09T16:19:07+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://kimbongnam.github.io/post/seoulmetro_map/</loc>
-    <lastmod>2019-10-09T16:19:07+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://kimbongnam.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

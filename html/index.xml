@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Htmls on My New Hugo Site</title>
+    <link>http://kimbongnam.github.io/html/</link>
+    <description>Recent content in Htmls on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://kimbongnam.github.io/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://kimbongnam.github.io/html/seoulmetro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kimbongnam.github.io/html/seoulmetro/</guid>
+      <description>L_NO_TOUCH = false; L_DISABLE_3D = false;      html, body {width: 100%;height: 100%;margin: 0;padding: 0;} #map {position:absolute;top:0;bottom:0;right:0;left:0;}  #map_f0cbe9a8c7324cc980a7b49a0196c7f6 { position: relative; width: 100.</description>
+    </item>
+    
+  </channel>
+</rss>
