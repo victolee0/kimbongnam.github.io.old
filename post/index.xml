@@ -17,7 +17,7 @@
       <pubDate>Wed, 09 Oct 2019 16:19:07 +0900</pubDate>
       
       <guid>http://kimbongnam.github.io/post/seoulmetro_map/</guid>
-      <description>월별 서울 지하철 이용 인구 사용 데이터 : 수도권 전철 여객 수송실적  #map_f0cbe9a8c7324cc980a7b49a0196c7f6{ width:80%; height:60%; min-width: 800px; min-height: 500px; }    L_NO_TOUCH = false; L_DISABLE_3D = false;      html, body {width: 100%;height: 100%;margin: 0;padding: 0;} #map {position:absolute;top:0;bottom:0;right:0;left:0;}  #map_f0cbe9a8c7324cc980a7b49a0196c7f6 { position: relative; width: 100.0%; height: 100.0%; left: 0.0%; top: 0.0%; }      var TDHeatmap = L.TimeDimension.Layer.extend({ initialize: function(data, options) { var heatmapCfg = { radius: 15, maxOpacity: 1.</description>
+      <description>월별 서울 지하철 이용 인구 사용 데이터 : 수도권 전철 여객 수송실적</description>
     </item>
     
   </channel>
