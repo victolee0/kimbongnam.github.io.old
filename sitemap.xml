@@ -13,6 +13,12 @@
   </url>
   
   <url>
+    <loc>http://kimbongnam.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://kimbongnam.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -20,12 +26,6 @@
   
   <url>
     <loc>http://kimbongnam.github.io/html/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://kimbongnam.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
